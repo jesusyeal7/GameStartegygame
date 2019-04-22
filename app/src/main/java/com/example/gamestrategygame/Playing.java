@@ -33,7 +33,7 @@ public class Playing extends AppCompatActivity {
         mButtonChoice2 = (Button)findViewById(R.id.choice2);
         mButtonChoice3 = (Button)findViewById(R.id.choice3);
 
-        //Button 1
+        //Button 1a
         mButtonChoice1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
